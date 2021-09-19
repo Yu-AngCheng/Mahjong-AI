@@ -1,5 +1,5 @@
-# Mahjong-bot-C-
-Class project of Programming Practice in C++(2020 Spring, Peking University), written by me, Zi-Xin and Shu-Rui.
+# Mahjong-AI (based on C++)
+Class project of Programming Practice in C++(2020 Spring, Peking University), written by me, Zi-Xin Zeng and Shu-Rui Wang.
 
 Follows rules of Chinese-Standard-Mahjong, see https://wiki.botzone.org.cn/index.php?title=Chinese-Standard-Mahjong for rules.
 
@@ -9,7 +9,7 @@ See https://github.com/ailab-pku/Chinese-Standard-Mahjong/tree/master/fan-calcul
 
 Enumerative algorithm mainly based on shanten and useful tiles: we choose the tile which will most likely result in the least shanten and as many useful tiles as possible.
 
-Targets the following mahjong hands: thirteen-orphans,seven-pairs, yisesantongshun, yisesanjiegao, yisesanbugao,qing-long,sanse-shuanglonghui,honors-and-knitted-tiles, knitted-straight, sanfengke, hua-long,sansesantongshun, sansesanjiegao, shuangjianke,sansesanbugao, pengpenghu.
+Targets the following mahjong hands: thirteen-orphans,seven-pairs, yisesantongshun, yisesanjiegao, yisesanbugao, qing-long, sanse-shuanglonghui, honors-and-knitted-tiles, knitted-straight, sanfengke, hua-long,sansesantongshun, sansesanjiegao, shuangjianke, sansesanbugao, pengpenghu.
 
 Able to CHI, PENG, GANG (anGANG and buGANG) correctly.
 
